@@ -1,0 +1,9 @@
+# Cache directory
+/Cache/
+
+# Textures
+*_Color.dds
+*_Color_Scaled.dds
+*_Height.dds
+*_Height_Scaled.dds
+*_Normal.dds
