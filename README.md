@@ -16,4 +16,6 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 
 See /Configs/Icons/license.md for the full license text.
 
-All other files are my original work and licensed under GPLv3. See LICENSE.md
+All other files are my original work/public domain deriviates and are licensed under GPLv3. See LICENSE.md
+
+## Note that textures arent included on the root github repo and can be found under releases (Eventually)
