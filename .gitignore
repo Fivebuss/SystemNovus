@@ -4,10 +4,11 @@
 # Textures
 *_Color.dds
 *_Color1.dds
-*_Color_Scaled.dds
+*_Color_Ocean.dds
 *_Height.dds
 *_Height_Scaled.dds
 *_Normal.dds
+*_Biome.png
 *.xcf
 
 # Misc
