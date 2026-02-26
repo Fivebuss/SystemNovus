@@ -1,8 +1,22 @@
 # Novus system
 ## A not-so-great star system I am making to relearn how to planet mod
-## The main star is the result of a stellar merger, which had some consequences on its system, some that may even be interesting
-## Currently implimented
-* Genuinly just the star lol while I figure out ocean textures
+## -> Note that textures arent included on the root github repo and once I finish a planet or two I will include in releases
+## Currently implimented in their basic versions, everything is heavily WIP
+* Novus, a large blue-white star thats the result of a stellar merger, wrecking chaos on the system
+* Ardor, an angry-red superheated gas giant which was unfortunate enough to be near Novus during it's merge
+* Helia, a sterile, hot and humid dried-up hycaen world, ocean floor flats with highly oxygenated water that may have simplistic life
+
+## Todo
+* Finish Ardor and Helia
+* Ardor volumetric disk from destroyed moons with SD configs
+* Adaris, a moon of Ardor that is close enough it can hide behind Ardor and survive. Somewhat.
+* Novera, the crown jewel planet, an atoll and island tropical paradise with intense Aurorae from Novus, formed after an iceball got heated up
+* Khion, a once-frozen ice giant thats far out, undecided moon system
+* Nimis, an asteroid in a highly eccentric orbit that cools and heats rapidly (May not do, small world suck in ksp)
+
+* Parallax configs past scaled space
+* Volumetric EVE configs, finish Ardor and impliment Helia
+
 
 ## Third-Party Assets
 
@@ -17,5 +31,3 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 See /Configs/Icons/license.md for the full license text.
 
 All other files are my original work/public domain deriviates and are licensed under GPLv3. See LICENSE.md
-
-## Note that textures arent included on the root github repo and can be found under releases (Eventually)

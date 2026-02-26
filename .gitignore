@@ -9,7 +9,9 @@
 *_Height_Scaled.dds
 *_Normal.dds
 *_Biome.png
+# Source textures
 *.xcf
+*_Src.*
 
 # Misc
 DisableOnDemand.cfg
