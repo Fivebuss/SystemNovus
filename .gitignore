@@ -2,6 +2,8 @@
 /Cache/
 
 # Textures
+/PluginData/Terrain/
+/PluginData/EVE/
 *_Color.dds
 *_Color1.dds
 *_Color_Ocean.dds
