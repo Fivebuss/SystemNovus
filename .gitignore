@@ -10,6 +10,7 @@
 *_Height.dds
 *_Height_Scaled.dds
 *_Normal.dds
+*_Emissive.dds
 *_Biome.png
 # Source textures
 *.xcf
