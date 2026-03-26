@@ -10,6 +10,8 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 
 See /Configs/Icons/license.md for the full license text.
 
+I also used SpacePotato's configs inside /Configs/EVE/MiscFX.cfg and /Configs/EVE/ParticleFieldConfig.cfg for some random effects
+
 # Regarding textures and such
 
 If you are insane enough to use one of my horrifying textures, you have bigger problems than licensing
