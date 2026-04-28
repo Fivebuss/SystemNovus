@@ -16,3 +16,8 @@ I also used SpacePotato's configs inside /Configs/EVE/MiscFX.cfg and /Configs/EV
 
 If you are insane enough to use one of my horrifying textures, you have bigger problems than licensing
 Though as stated, you must also use GPLv3
+
+# Why GPLv3 like an insane person and not CreativeCommons for textures
+* Split licensing is annoying to deal with
+* I prefer open-source for all
+* I despise CC-By-Nd. SA is better though weirdly not used much
