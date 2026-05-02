@@ -1,7 +1,6 @@
 # Novus system
 ## A not-so-great star system I am making to relearn how to planet mod
-## -> Note that textures arent included on the root github repo, an initial version containing Helia and Novera in their basic forms is found under releases
-## Currently implimented, this is bound to change and very WIP!
+## -> Note that textures arent included on the root github repo, and are found under releases
 * Novus, a large blue-white star thats the result of a stellar merger, wrecking chaos on the system
 * Ardor, a large hot superjoolian world that is being baked by Novus, with a singular surviving moon and a beautiful planetary disk that at the moment doesn't exist
     * Adaris, a shattered lava moon scarily close to Ardor, bombarded by Ardor's disk and charred by Novus
