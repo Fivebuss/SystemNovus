@@ -9,10 +9,11 @@
 * Helia, a sterile, hot and humid dried-up hycaen world, ocean floor flats with highly oxygenated water that may have simplistic life
 * Khion, a lonely cold blue ice giant which is heating up slightly
     * Boreas, a Vall clone with an atmosphere and strange weather. A slick melting ice ball with polar snow storms and broken ocean configs for lakes
+* Nimis, a highly eliptical gilly-sized comet with an immense tail
 
 ## Todo
+* Optimize Nimis's tail
 * Mirage's and Ardor's rings
-* Nimis, an asteroid in a highly eccentric orbit that cools and heats rapidly. With a very long tedious-to-make tail thanks to scaled decorator
 * Fix Boreas's ocean node
 * Helia revamp, it's kinda terrible and boring
 
@@ -36,6 +37,6 @@
 * VertexColormapEmissive and VertexMitchellNetravaliHeightMap
 * V5 scatterer and volumetrics
     * In the far future I might add 2D cloud support for EVE-Redux and make parallax continued optional
-* BurstPQS __This pack uses alot of complicated PQS mod setups that are very costly on low-end hardware, I would *highly* reccomend this__
+* BurstPQS __This pack uses alot of complicated PQSmod setups that are very costly on low-end hardware, I would *highly* reccomend this__
 
 `This project is licensed under GPLv3, with some exceptions. See LICENSE.md and LICENSEINFO.md`
