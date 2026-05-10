@@ -1,20 +1,6 @@
 # Cache directory
-/Cache/
+Cache/
 
 # Textures
-/PluginData/Terrain/
-/PluginData/EVE/
-*_Color.dds
-*_Color1.dds
-*_Color_Ocean.dds
-*_Height.dds
-*_Height_Scaled.dds
-*_Normal.dds
-*_Emissive.dds
-*_Biome.png
-# Source textures
-*.xcf
-*_Src.*
-
-# Misc
-DisableOnDemand.cfg
+Core/PluginData/*
+Systems/**/*.dds
