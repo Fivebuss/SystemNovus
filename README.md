@@ -1,4 +1,4 @@
-# Kerbal Star Frontiers
+# Stellar Frontiers
 ## A planet pack with potentially interesting worlds and in the future, multiple stars
 ## Work in progress!
 
