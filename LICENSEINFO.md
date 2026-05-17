@@ -6,7 +6,7 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 - License: https://creativecommons.org/licenses/by-sa/4.0/
 - Downloaded: February 22, 2026 at 11:34 AM
 - Source: [Orbit Icons Pack](https://github.com/Oprissmian/OrbitIconsPack)
-- Modifications: None
+- Modifications: Added additional icons based on the same style
 
 See /Configs/Icons/license.md for the full license text.
 
