@@ -1,17 +1,16 @@
 # Stellar Frontiers
-## A planet pack with potentially interesting worlds and in the future, multiple stars
+## A planet pack with unique and potentially interesting worlds
 ## Work in progress!
 
-
 ## Novus System
-* Novus, a large blue-white star that's the result of a stellar merger, wrecking chaos in the system
+* Novus, a large blue-white star that's the result of a stellar merger, wreaking chaos in the system
 * Ardor, a large hot super-joolian world being baked by Novus, with a singular surviving moon and a beautiful planetary disk that at the moment doesn't exist
     * Adaris, a shattered lava moon scarily close to Ardor, bombarded by Ardor's disk and charred by Novus
 * Mirage, habitable paradise turned desert world. Sorta breathable, though the temperature would kill a Kerbal under the sun. Unstable climate and weather.
 * Helia, a sterile, hot and humid dried-up hycean world, ocean floor flats with highly oxygenated water that may have simplistic life
-    * Cairn, a lonely jagged cold moon containing jagged highlands and odd eroded valleys and flats. Can provide gravity assists/capture for Helia 
 * Khion, a lonely cold white-blue ice giant which is heating up slightly
     * Boreas, a Vall clone with an atmosphere and strange weather. A slick melting ice ball with polar snow storms and sparse lakes
+    * Cairn, a lonely barren moon containing jagged highlands and odd eroded valleys and flats. Can provide gravity assists/capture for Khion 
 * Nimis, a highly elliptical gilly-sized comet with an immense tail
 
 ## Todo
