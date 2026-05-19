@@ -1,6 +1,7 @@
 ## Third-Party Assets
 
-The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
+### Icons
+The PNG icons in `/Core/Configs/Icons/` are from the OrbitIconsPack:
 - Copyright © 2024 Oprissmian
 - Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 - License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -8,7 +9,19 @@ The PNG icons in `/Configs/Icons/` are from the OrbitIconsPack:
 - Source: [Orbit Icons Pack](https://github.com/Oprissmian/OrbitIconsPack)
 - Modifications: None
 
-See /Configs/Icons/license.md for the full license text.
+See /Core/Configs/Icons/license.md for the full license text.
+
+### Aurorae
+The Aurorae textures in `/Core/EVE/PluginData/AVP/` are from Astronomer's Visual Pack:
+- Copyright @ 2022 themaster402
+- Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+- License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+- Downloaded: May 18, 2026 at 9:50 AM
+- Source: [AVP](https://github.com/themaster402/AstronomersVisualPack)
+- Modifications: Changes to DDS formatting
+
+See /Core/EVE/PluginData/AVP/license.md for the full license text.
+
 
 I also used SpacePotato's configs inside /Configs/EVE/MiscFX.cfg and /Configs/EVE/ParticleFieldConfig.cfg for some random effects
 

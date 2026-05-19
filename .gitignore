@@ -4,3 +4,4 @@ Cache/
 # Textures
 Core/PluginData/*
 Systems/**/*.dds
+Core/EVE/PluginData/**/*.dds
