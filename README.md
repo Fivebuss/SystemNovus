@@ -10,12 +10,12 @@
 * Mirage, habitable paradise turned desert world. Sorta breathable, though the temperature would kill a Kerbal under the sun. Unstable climate and weather.
 * Khion, a lonely cold white-blue ice giant which is heating up slightly
     * Boreas, a Vall clone with an atmosphere and strange weather. A slick melting ice ball with polar snow storms and sparse lakes
-    * Cairn, a lonely barren moon containing jagged highlands and odd eroded valleys and flats. Can provide gravity assists/capture for Khion
+    * Cairn, a barren moon containing jagged highlands with odd eroded valleys and flats. Can provide gravity assists/capture for Khion
     * The wormhole is here
 * Nimis, a highly elliptical gilly-sized comet with an immense tail
 
 ## PDS70 System -- Unfinished!
-* PDS70, roughly inspired by real life. A young oorange dwarf with an immense protoplanetary disk
+* PDS70, roughly inspired by real life. A young orange dwarf with an immense protoplanetary disk
 * Cinis, a newly born lava and ash ridden world. Exceptionally hot and unstable surface. Contains its own smaller disk just like its star.
 * Zero work done yet ---> Furen, essentially a newly born brown dwarf with 1-2 protomoons. An extremely hot and large gas giant
 
